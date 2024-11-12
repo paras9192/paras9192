@@ -5,16 +5,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paras9192" alt="paras9192" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **Amazon Web Services**
+
+- 💬 Ask me about **Node.js,Express.js,Django,nginx,aws,docker etc.**
 
 - 📫 How to reach me **paraslohia126@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17mkoFxDr4p8qkwC5eOZA7GHy70zP4MK7/view?usp=sharing](https://drive.google.com/file/d/17mkoFxDr4p8qkwC5eOZA7GHy70zP4MK7/view?usp=sharing)
 
+- ⚡ Fun fact **When I'm not coding, you might find me exploring new music genres, hiking trails, or experimenting with new recipes in the kitchen!**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/@paraslohia9192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@paraslohia9192" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/paras-lohia-7292761bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paras-lohia-7292761bb/" height="30" width="40" /></a>
 <a href="https://instagram.com/paraslohia9193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paraslohia9193" height="30" width="40" /></a>
 </p>
