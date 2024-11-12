@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17mkoFxDr4p8qkwC5eOZA7GHy70zP4MK7/view?usp=sharing](https://drive.google.com/file/d/17mkoFxDr4p8qkwC5eOZA7GHy70zP4MK7/view?usp=sharing)
 
-- ⚡ Fun fact **When I'm not coding, you might find me exploring new music genres, hiking trails, or experimenting with new recipes in the kitchen!**
+- ⚡ Fun fact **When I'm not coding, you might find me exploring new music genres, hiking trails, or riding a bike**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
